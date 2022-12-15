@@ -22,7 +22,7 @@
     "cross-env": "^7.0.3",
     "csurf": "^1.11.0",
     "debug": "~2.6.9",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-rate-limit": "^5.2.3",
     "express-session": "^1.17.1",
     "helmet": "^4.2.0",
