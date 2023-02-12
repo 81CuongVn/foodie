@@ -65,7 +65,7 @@
     "clean-css": "^4.2.3",
     "dotenv": "^8.2.0",
     "mquery": "^3.2.3",
-    "nodemon": "^2.0.6",
+    "nodemon": "^2.0.20",
     "rimraf": "^3.0.2",
     "ts-node": "^9.1.1",
     "tsconfig-paths": "^3.9.0",
